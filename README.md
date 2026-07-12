@@ -175,3 +175,7 @@ Issues and pull requests are welcome once this repository is public (see
 - If you're extending the tour past PartDesign basics into Sketcher
   constraint teaching, please coordinate with the FPA Sketcher-tutorial
   addon team first rather than duplicating their scope.
+
+## Transparency
+
+Built with [Claude Code](https://claude.com/claude-code).
